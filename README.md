@@ -129,7 +129,7 @@ I believe in continuous learning, discipline, and contributing back to the commu
 
 ## 🟩 LeetCode Stats  
 <p align="center">
-  <img height="200" src="https://leetcard.jacoblin.cool/surajprakash3?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+  <img height="200" src="https://leetcard.jacoblin.cool/Sp_alphatech?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
 </p>
 
 ---
@@ -150,7 +150,7 @@ I believe in continuous learning, discipline, and contributing back to the commu
   <a href="https://linkedin.com/in/surajprakash2">LinkedIn</a> •
   <a href="https://github.com/surajprakash3">GitHub</a> •
   <a href="mailto:surajprak101@gmail.com">Email</a> •
-  <a href="https://leetcode.com/u/surajprakash3/">LeetCode</a>
+  <a href="https://leetcode.com/u/Sp_alphatech/">LeetCode</a>
 </p>
 
 ---
