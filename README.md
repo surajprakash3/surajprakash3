@@ -186,7 +186,7 @@ I believe in continuous learning, discipline, and contributing back to the commu
   <a href="https://linkedin.com/in/surajprakash2">LinkedIn</a> •
   <a href="https://github.com/surajprakash3">GitHub</a> •
   <a href="mailto:surajprak101@gmail.com">Email</a> •
-  <a href="https://leetcode.com/u/Sp_alphatech/">LeetCode</a>
+  <a href="https://leetcode.com/u/Sp_alphatech/">LeetCode</a> •
   <a href="https://www.hackerrank.com/profile/Sp_alphatech">HackerRank</a>
 </p>
 
