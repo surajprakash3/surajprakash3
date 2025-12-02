@@ -137,27 +137,41 @@ I believe in continuous learning, discipline, and contributing back to the commu
 
 <div align="center">
 
-### 🎖️ HackerRank Certificates  
+## 🟩 HackerRank Achievements
+
+<div align="center">
+
+### 🎖️ My Skill Badges
+<img src="https://img.shields.io/badge/C++-5★-yellow?style=for-the-badge&logo=hackerrank" />
+<img src="https://img.shields.io/badge/Java-4★-lightgrey?style=for-the-badge&logo=java" />
+<img src="https://img.shields.io/badge/Python-1★-blue?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/SQL-2★-orange?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/C-1★-informational?style=for-the-badge&logo=c" />
+
+<br/><br/>
+
+### 📜 My Certifications  
 <a href="https://www.hackerrank.com/profile/Sp_alphatech">
-  <img src="https://img.shields.io/badge/HackerRank-Certified-green?style=for-the-badge&logo=hackerrank" />
+  <img src="https://img.shields.io/badge/Python%20(Basic)-Verified-brightgreen?style=for-the-badge&logo=python" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/Sp_alphatech">
+  <img src="https://img.shields.io/badge/SQL%20(Basic)-Verified-blue?style=for-the-badge&logo=mysql" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/Sp_alphatech">
+  <img src="https://img.shields.io/badge/CSS%20(Basic)-Verified-purple?style=for-the-badge&logo=css3" />
 </a>
 
 <br/><br/>
 
-### 🟩 Skill Badges  
+### 🔗 View My Full Profile  
 <a href="https://www.hackerrank.com/profile/Sp_alphatech">
-  <img src="https://img.shields.io/badge/Problem%20Solving-Intermediate-brightgreen?style=flat-square&logo=hackerrank" />
+  <img src="https://img.shields.io/badge/Visit%20HackerRank%20Profile-00EA64?style=for-the-badge&logo=hackerrank" />
 </a>
-<a href="https://www.hackerrank.com/profile/Sp_alphatech">
-  <img src="https://img.shields.io/badge/Python-Basic-brightgreen?style=flat-square&logo=python" />
-</a>
-<a href="https://www.hackerrank.com/profile/Sp_alphatech">
-  <img src="https://img.shields.io/badge/SQL-Intermediate-blue?style=flat-square&logo=mysql" />
-</a>
-
-<br/><br/>
 
 </div>
+
 
 
 
