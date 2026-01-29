@@ -116,6 +116,73 @@ I'm **Suraj Prakash**, a **B.Tech CSE (2023–27)** student at **Lovely Professi
 - 🧘 Founder – **Titanium Yoga Club, Gaya**
 
 ---
+<!-- ========================== CERTIFICATIONS & ACHIEVEMENTS ========================== -->
+
+## 📜 Certifications & Achievements (Chronological Summary)
+
+### ☁️ Cloud, AI & Software Engineering
+- **AWS Academy Graduate – Cloud Architecting (60 Hours)**  
+  Trained in designing **scalable, secure, and cost-optimized cloud architectures** using AWS services.
+
+- **Oracle Cloud Infrastructure 2025 – AI Foundations Associate (Oracle University)**  
+  Gained strong fundamentals in **AI concepts and Oracle Cloud Infrastructure**.
+
+- **Get Started with Machine Learning in Azure – Microsoft**  
+  Explored **ML workflows**, model lifecycle, and **Azure AI services**.
+
+- **Introduction to Machine Learning Concepts – Microsoft**  
+  Learned core ML fundamentals including **models, data, and basic AI principles**.
+
+- **Front-End Software Engineering Job Simulation – Skyscanner (Forage)**  
+  Completed real-world frontend engineering tasks using **React and modern UI practices**.
+
+- **Java Maestro: Hands-On Training on Developing GUI Applications – LPU CPE**  
+  Built **Java-based GUI applications**, strengthening core Java and UI development skills.
+
+---
+
+### 🛡 Cybersecurity & Systems
+- **Windows Fundamentals 1 – TryHackMe**  
+  Gained foundational knowledge of **Windows OS, file systems, user accounts, and system management**.
+
+- **Training Impact on Teams – TryHackMe**  
+  Learned how **cybersecurity training improves team efficiency and organizational security culture**.
+
+---
+
+### 🌐 Networking & Social Computing
+- **Social Networks – NPTEL (IIT Madras)**  
+  Studied **social network analysis**, graph theory, and real-world applications.
+
+---
+
+### 🌱 Leadership, Social Impact & National Programs
+- **Sardar 150 Young Leaders Program – MY Bharat**  
+  Engaged in national leadership development initiatives promoting **Ek Bharat & Aatmanirbhar Bharat**.
+
+- **Viksit Bharat Young Leaders Dialogue (VBYLD) 2026 – MY Bharat**  
+  Participated in **policy-focused dialogue** emphasizing youth-led national development.
+
+- **VBYLD Essay Competition – MY Bharat**  
+  Contributed analytical perspectives on **nation-building** through structured essay writing.
+
+- **Know More About DFPD – II Quiz – MY Bharat**  
+  Strengthened understanding of **public distribution systems and food security initiatives**.
+
+- **Janjati Gaurav Varsh Quiz – MY Bharat**  
+  Gained insights into **tribal heritage, culture, and contributions to Indian society**.
+
+- **CPR Awareness Week Online Quiz – MY Bharat**  
+  Enhanced awareness of **life-saving CPR techniques and emergency response**.
+
+---
+
+### 🤝 Community Engagement & Volunteering (LPU NSS)
+- **GYANDEEP – Teaching Project – LPU NSS**  
+  Contributed to **community learning initiatives** through structured teaching activities.
+
+- **Plantation Drive – LPU NSS**  
+  Actively participated in **environmental sustainability and green campus initiatives**.
 
 <!-- ========================== GITHUB ANALYTICS ========================== -->
 
