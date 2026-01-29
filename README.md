@@ -2,7 +2,7 @@
 <!-- ========================== HEADER TITLE ========================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3800&color=4DD0E1&center=true&vCenter=true&width=850&lines=Hey+There!+I'm+Suraj+Prakash+👋;Aspiring+Software+Developer;Cloud+%7C+OS+%7C+Automation+%7C+Web+Development;Building+Skills+Step+by+Step+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3800&color=4DD0E1&center=true&vCenter=true&width=850&lines=Hey+There!+I'm+Suraj+Prakash+👋;Aspiring+Full+Stack+%26+Cloud+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Web+Development;Building+Skills+Step+by+Step+🚀" />
 </p>
 
 <h1 align="center">Welcome to My GitHub Profile 🌐</h1>
@@ -17,37 +17,42 @@
 
 ## 👨‍💻 About Me
 
-I'm **Suraj Prakash**, a B.Tech CSE student at **Lovely Professional University (2023–27)** who loves building and learning in:
+I'm **Suraj Prakash**, a **B.Tech CSE (2023–27)** student at **Lovely Professional University**, passionate about building scalable systems and cloud-native applications.
 
+### My Core Interests:
 - **Operating Systems**
 - **Cloud Computing (AWS)**
-- **Automation & Scripts**
-- **Web Development**
+- **DevOps & Automation**
+- **Full Stack Web Development**
 - **Problem-Solving & DSA**
 
-I’m also deeply involved in community leadership through:
-
+### Leadership & Community:
 - ⭐ **NSS Unit Umang – Unit Leader**
 - ⭐ **TFUG Jalandhar – Core Team Member**
 - ⭐ **DevTown – Campus Ambassador**
 - ⭐ **Founder – Titanium Yoga Club, Gaya**
 
-I believe in continuous learning, discipline, and contributing back to the community.
-
 > **“Learn. Build. Lead. Inspire.”**
 
 ---
 
-<!-- ========================== WHAT I'M DOING NOW ========================== -->
+<!-- ========================== CURRENT FOCUS ========================== -->
 
 ## 📌 What I'm Learning / Working On (Currently)
 
-- ☁ **AWS Cloud** – EC2, S3, IAM, VPC, Load Balancers, Auto Scaling  
-- 🐧 **Operating Systems** – CSE325 Lab Preparation  
-- ⚙ **Automation Projects** – Python + PowerShell + OpenCV + MediaPipe  
-- 💻 **Web Development** – JS, Node.js  
-- 📚 **Data Structures & Algorithms**  
-- 🎯 Preparing for **internships & hackathons**  
+- ☁ **AWS Cloud**
+  - EC2, S3, IAM, VPC
+  - Load Balancer, Auto Scaling
+  - CloudWatch, RDS
+- 🐧 **Operating Systems** – CSE325 Lab & Internals  
+- ⚙ **Automation Projects**
+  - Python, PowerShell
+  - OpenCV & MediaPipe
+- 💻 **Full Stack Development**
+  - JavaScript, Node.js, Express.js
+  - React.js (Basics)
+- 📚 **Data Structures & Algorithms**
+- 🎯 Preparing for **internships & hackathons**
 
 ---
 
@@ -57,12 +62,12 @@ I believe in continuous learning, discipline, and contributing back to the commu
 
 ### **🧩 Technologies (Icon Grid)**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,nodejs,react,git,github,linux,aws,docker,mysql,postgres,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,nodejs,react,git,github,linux,aws,docker,kubernetes,mysql,postgres,vscode&perline=10" />
 </p>
 
 ### **⚡ Core Skills**
 
-#### **Languages**
+#### **Programming Languages**
 <p>
   <img src="https://img.shields.io/badge/C-283593?style=flat&logo=c"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus"/>
@@ -75,12 +80,14 @@ I believe in continuous learning, discipline, and contributing back to the commu
 <p>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes"/>
   <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git"/>
 </p>
 
-#### **Operating Systems & Tools**
+#### **Servers & OS Tools**
 <p>
   <img src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux"/>
+  <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache"/>
   <img src="https://img.shields.io/badge/Shell_Scripting-4D4D4D?style=flat&logo=gnu-bash"/>
   <img src="https://img.shields.io/badge/PowerShell-2CA5E0?style=flat&logo=powershell"/>
 </p>
@@ -93,20 +100,20 @@ I believe in continuous learning, discipline, and contributing back to the commu
 
 ---
 
-<!-- ========================== MILESTONES ========================== -->
+<!-- ========================== ACHIEVEMENTS ========================== -->
 
 ## 🏆 Milestones & Achievements
 
 - 👨‍🏫 **NSS Unit Umang – Unit Leader, LPU**
 - 🎓 Completed multiple **NPTEL Certifications**
-- 🤝 Organized community activities for 1000+ students
-- ☁ Built multiple **AWS-based cloud practicals**
-- 💡 Created projects using:
-  - Python automation  
-  - System utilities (brightness, volume, gestures)  
-  - OpenCV + MediaPipe  
-- 💻 Solved 300+ programming problems  
-- 🧘 Founded **Titanium Yoga Club – Gaya**
+- 🤝 Organized community initiatives for **1000+ students**
+- ☁ Built and deployed **AWS-based cloud practicals**
+- 💡 Developed automation projects using:
+  - Python scripts
+  - System utilities (brightness, volume, gestures)
+  - OpenCV + MediaPipe
+- 💻 Solved **300+ programming problems**
+- 🧘 Founder – **Titanium Yoga Club, Gaya**
 
 ---
 
@@ -133,42 +140,19 @@ I believe in continuous learning, discipline, and contributing back to the commu
 </p>
 
 ---
-## 🟧 HackerRank Profile
 
-<div align="center">
+<!-- ========================== HACKERRANK ========================== -->
 
-## 🟩 HackerRank Achievements
+## 🟧 HackerRank Achievements
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-5★-yellow?style=for-the-badge&logo=hackerrank" />
+  <img src="https://img.shields.io/badge/Java-4★-lightgrey?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Python-1★-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/SQL-2★-orange?style=for-the-badge&logo=mysql" />
+</p>
 
-### 🎖️ My Skill Badges
-<img src="https://img.shields.io/badge/C++-5★-yellow?style=for-the-badge&logo=hackerrank" />
-<img src="https://img.shields.io/badge/Java-4★-lightgrey?style=for-the-badge&logo=java" />
-<img src="https://img.shields.io/badge/Python-1★-blue?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/SQL-2★-orange?style=for-the-badge&logo=mysql" />
-<img src="https://img.shields.io/badge/C-1★-informational?style=for-the-badge&logo=c" />
-
-<br/><br/>
-
-### 📜 My Certifications  
-<a href="https://www.hackerrank.com/profile/Sp_alphatech">
-  <img src="https://img.shields.io/badge/Python%20(Basic)-Verified-brightgreen?style=for-the-badge&logo=python" />
-</a>
-
-<a href="https://www.hackerrank.com/profile/Sp_alphatech">
-  <img src="https://img.shields.io/badge/SQL%20(Basic)-Verified-blue?style=for-the-badge&logo=mysql" />
-</a>
-
-<a href="https://www.hackerrank.com/profile/Sp_alphatech">
-  <img src="https://img.shields.io/badge/CSS%20(Basic)-Verified-purple?style=for-the-badge&logo=css3" />
-</a>
-
-<br/><br/>
-
-</div>
-
-
-
+---
 
 <!-- ========================== VISITOR GRAPH ========================== -->
 
