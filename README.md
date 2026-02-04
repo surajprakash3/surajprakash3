@@ -2,7 +2,7 @@
 <!-- ========================== HEADER TITLE ========================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3800&color=4DD0E1&center=true&vCenter=true&width=850&lines=Hey+There!+I'm+Suraj+Prakash+👋;Aspiring+Full+Stack+%26+Cloud+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Web+Development;Building+Skills+Step+by+Step+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3800&color=4DD0E1&center=true&vCenter=true&width=850&lines=Hey+There!+I'm+Suraj+Prakash+👋;Full+Stack+Devloper%26+Cloud+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Web+Development;Building+Skills+Step+by+Step+🚀" />
 </p>
 
 <h1 align="center">Welcome to My GitHub Profile 🌐</h1>
